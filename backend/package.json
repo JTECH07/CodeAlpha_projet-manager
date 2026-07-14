@@ -1,5 +1,5 @@
 {
-  "name": "project-manager-backEnd",
+  "name": "project-manager-backend",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
